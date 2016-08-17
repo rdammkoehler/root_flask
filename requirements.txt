@@ -1,0 +1,23 @@
+-e .
+behave==1.2.5
+nose==1.3.7
+parse==1.6.6
+parse-type==0.3.4
+wheel==0.24.0
+pyyaml==3.11
+Flask==0.10.1
+coverage==4.0.1
+pep8==1.6.2
+gunicorn
+paver
+flake8
+pep8-naming
+autopep8==1.2.1
+mock
+Werkzeug==0.10.4
+inflect==0.2.5
+Flask-JSON==0.3.0
+injector==0.9.1
+statsd==3.2.1
+flask-stats==1.0.1
+pytz
