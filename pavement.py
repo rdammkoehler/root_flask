@@ -10,15 +10,10 @@ setup(
     version='0.0.1.dev',
     install_requires=[
         'flask',
-        'pyjwt',
-        'sqlalchemy',
-        'cryptography',
         'gunicorn',
         'Flask-JSON',
         'python-dateutil',
         'injector',
-        'statsd',
-        'flask-stats'
     ],
     entry_points={
     })
